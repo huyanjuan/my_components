@@ -1,9 +1,9 @@
 {
-  "name": "my_components",
+  "name": "my_components_hyj",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/huyanjuan/components.git",
+  "repository": "https://github.com/huyanjuan/my_components_hyj.git",
   "author": "胡闫娟 <1097445438@qq.com>",
   "license": "MIT",
   "scripts": {
